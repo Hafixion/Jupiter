@@ -59,11 +59,3 @@ bukkit {
     // Other possible properties from plugin.yml (optional)
     load = 'STARTUP' // or 'POSTWORLD'
 }
-
-shadowJar {
-    archiveName = "$baseName-$version.$extension"
-}
-
-artifacts {
-    archives shadowJar
-}
