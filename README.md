@@ -93,3 +93,6 @@ myMenu.openToPlayer(player)
 ## Support
 If you want support for this fork, you can come ask Hafixion on the Neptune Services Discord, as this library is used primarily for the Jupiter Series of plugins.
 https://discord.gg/HvEKfjtzhS   
+
+## Building
+Looking to build this library? Simply run `gradle shadowJar`. You'll find a built jar file in build/libs.
